@@ -1,0 +1,16 @@
+body{
+    background-color: #011d24;
+}
+
+#jumbo-header{
+text-align: center;
+font-size: 37px;
+line-height: 0.4;
+font-weight: 600;
+font-style: normal;
+font-family: 'Russo One', sans-serif;
+}
+
+#jumbo-emoji{
+    text-align: center;
+}
